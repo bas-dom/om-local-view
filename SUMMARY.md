@@ -17,4 +17,6 @@
   * [用户交互模块设计](module/user_interface.md)
   * [操作记录模块设计](module/operation_record.md)
   * [数据回放模块设计](module/shu-ju-hui-fang-mo-kuai-she-ji.md)
+* [需求分析](xu-qiu-fen-xi.md)
+* [手机网页需求分析](shou-ji-wang-ye-xu-qiu-fen-xi.md)
 
